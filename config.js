@@ -1,1 +1,1 @@
-window.ERDOS_CFG={NAME:"ERDOS NUMBER",TICKER:"ERDOS",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"SOL",X:"",BUY:"",CHART:""};
+window.ERDOS_CFG={NAME:"ERDOS NUMBER",TICKER:"ERDOS",CA:"AvCB7kQYKosVTMrrJsxozmnGEt3vuoyPH4mrLQoFpump",CHAIN:"solana",PAD:"pump.fun",PAIR:"SOL",X:"https://x.com/erdosnumbers",BUY:"https://pump.fun/coin/AvCB7kQYKosVTMrrJsxozmnGEt3vuoyPH4mrLQoFpump",CHART:"https://gmgn.ai/sol/token/AvCB7kQYKosVTMrrJsxozmnGEt3vuoyPH4mrLQoFpump"}
